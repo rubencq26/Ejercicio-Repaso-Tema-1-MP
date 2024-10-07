@@ -1,6 +1,6 @@
 // Ejercicio Repaso Tema 1 MP.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
 //
-#define _CRT_SECURE_NO_WARNINGS
+#define _CRT_SECURE_NO_WARNINGS //Permite que pueda usar la libreria cstring en visual studio
 #include <iostream>
 #include <string.h>
 using namespace std;
